@@ -1,3 +1,15 @@
+## Dataset Description
+
+- **Source:** Kaggle - Supermarket Sales Data
+- **Rows:** 1,000
+- **Columns:** 17
+- **Main Columns:**
+  - `invoice_id`, `branch`, `city`, `customer_type`, `gender`
+  - `product_line`, `unit_price`, `quantity`, `tax_5%`, `sales`
+  - `date`, `time`, `payment`, `cogs`, `gross_margin_percentage`, `gross_income`, `rating`
+
+This dataset contains detailed sales records from a supermarket, including transaction details, product categories, customer demographics, and financial information.
+
 ## Data Cleaning Summary
 
 This notebook includes the following data cleaning steps:
